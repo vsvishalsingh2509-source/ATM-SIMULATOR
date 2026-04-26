@@ -1,2 +1,6 @@
 # ATM-SIMULATOR
-this simulator show balance, withdraw and deposit money, show transactions made
+## features
+-check balance
+-deposit money
+-withdraw money
+-transaction history
